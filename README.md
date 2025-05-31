@@ -1,16 +1,14 @@
 # 💡 Data Meets Cybersecurity — Portfolio by Loise Mihari
 
-Welcome to my portfolio — where **data storytelling meets digital defense**.
+Welcome to my # 💻 CyberSec Lab by Loise Mihari
+ — where **data storytelling meets digital defense**.
 
-# Cybersecurity Journey 🚀
-
-Hi there! I'm a Data Analyst with a passion for cybersecurity, exploring the intersections of data, networks, and digital defense.
-
-This repository documents my hands-on learning journey through TryHackMe's Pre-Security path, personal scripts, tool walkthroughs, and weekly reflections — all aimed at building practical security skills.
-
+Welcome to my Cybersecurity Lab — a curated collection of hands-on projects, TryHackMe challenges, learning notes, and security tools. As a data analyst with a deep interest in cybersecurity, I’m exploring how data and security intersect in real-world applications — from log file analysis to network defense
 ---
+### 📘 TryHackMe Journey (Pre-Security Path)
 
-## 📘 TryHackMe Progress
+I'm actively working through the TryHackMe Pre-Security pathway to sharpen my practical skills. Below is my room-by-room progress:
+
 - ✅ Room 01: Intro to Cyber Security
 - ✅ Room 02: Defensive Security
 - ✅ Room 03: Offensive Security
